@@ -6,6 +6,7 @@ categories: jekyll update
 lat: 47.4666700	
 lng: -0.5500000
 desc: Son chateau
+photo: https://fr.wikipedia.org/wiki/Angers#/media/File:Loire_Maine_Angers2_tango7174.jpg
 properties:
     -
         key: name
