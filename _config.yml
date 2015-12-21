@@ -6,7 +6,6 @@ baseurl: "/jekyll-maps/" # the subpath of your site, e.g. /blog/
 url: "http://Cdric49.github.com/jekyll-maps/" # the base hostname & protocol for your site
 twitter_username: vancematthews
 github_username:  svmatthews
-map-tileset: 'http://{s}.tile.stamen.com/watercolor/{z}/{x}/{y}.png'
 
 # Build settings
 markdown: kramdown
