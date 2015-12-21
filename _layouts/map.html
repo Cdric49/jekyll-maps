@@ -26,7 +26,7 @@
       {% for post in site.posts %}
       lat = {{ post.lat }};
       lng = {{ post.lng }};
-      content = "<strong>{{ post.title }}</strong><br><IMG SRC={{ post.photo }} WIDTH=32 HEIGHT=32><br>{{ post.desc }}";
+      content = "<strong>{{ post.title }}</strong><br><IMG SRC='{{ post.photo }}' WIDTH=32 HEIGHT=32><br>{{ post.desc }}";
       marker = L.marker([lat, lng], {
         icon: mbox
       }).bindPopup(content);
