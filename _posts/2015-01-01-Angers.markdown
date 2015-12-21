@@ -5,14 +5,14 @@ date:   2014-09-14 10:18:56
 categories: jekyll update
 lat: 47.4666700	
 lng: -0.5500000
-desc: "![GitHub Logo](https://fr.wikipedia.org/wiki/Angers#/media/File:Loire_Maine_Angers2_tango7174.jpg)"
+desc: ""
 properties:
     -
         key: name
         value: Angers, France
     -
         key: description
-        value: Seattle is a coastal seaport city and the seat of King County, in the U.S. state of Washington.
+        value: ![GitHub Logo](https://fr.wikipedia.org/wiki/Angers#/media/File:Loire_Maine_Angers2_tango7174.jpg)
     -
         key: foo
         value: bar
