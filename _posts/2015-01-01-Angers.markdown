@@ -5,7 +5,7 @@ date:   2014-09-14 10:18:56
 categories: jekyll update
 lat: 47.4666700	
 lng: -0.5500000
-desc: "Seattle is a coastal seaport city and the seat of King County, in the U.S. state of Washington. With an estimated 652,405 residents as of 2013, Seattle is the largest city in the Pacific Northwest region of North America and the fastest-growing major city in the United States. Source: Wikipedia"
+desc: "![GitHub Logo](https://fr.wikipedia.org/wiki/Angers#/media/File:Loire_Maine_Angers2_tango7174.jpg)"
 properties:
     -
         key: name
