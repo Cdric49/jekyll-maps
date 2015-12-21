@@ -5,7 +5,7 @@ date:   2014-09-14 10:18:56
 categories: jekyll update
 lat: 47.4666700	
 lng: -0.5500000
-desc: ""
+desc: ![GitHub Logo](https://fr.wikipedia.org/wiki/Angers#/media/File:Loire_Maine_Angers2_tango7174.jpg)
 properties:
     -
         key: name
