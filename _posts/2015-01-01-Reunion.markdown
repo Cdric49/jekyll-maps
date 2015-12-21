@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title:  "Ile de La Réunion"
+title:  "Ile de La Reunion"
 lat: -21.11
 lng: 55.50
 desc: Ses cases
