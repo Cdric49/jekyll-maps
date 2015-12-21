@@ -3,9 +3,10 @@ title: Jekyll Maps
 email: matthews.sam@gmail.com
 description: Point-based map engine generated via static Jekyll posts.
 baseurl: "/jekyll-maps/" # the subpath of your site, e.g. /blog/
-url: "http://mapsam.com/jekyll-maps/" # the base hostname & protocol for your site
+url: "http://Cdric49.github.com/jekyll-maps/" # the base hostname & protocol for your site
 twitter_username: vancematthews
 github_username:  svmatthews
+map-tileset: 'http://{s}.tile.stamen.com/toner-lite/{z}/{x}/{y}.png'
 
 # Build settings
 markdown: kramdown
