@@ -1,20 +1,8 @@
 ---
 layout: post
 title:  "Angers!"
-date:   2014-09-14 10:18:56
-categories: jekyll update
 lat: 47.4666700	
 lng: -0.5500000
 desc: Son chateau
 photo: http://loi-pinel.duflot.org/wp-content/uploads/2014/09/Angers.jpg
-properties:
-    -
-        key: name
-        value: Angers, France
-    -
-        key: description
-        value: Ici la description
-    -
-        key: foo
-        value: bar
 ---
