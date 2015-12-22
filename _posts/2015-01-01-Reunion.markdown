@@ -5,5 +5,5 @@ lat: -21.11
 lng: 55.50
 desc: Alain BALTZ
 link: http://aquarelle-reunion.re/#/accueil/4195545
-photo: http://voyage.eu.org/aquarelle/Alain.BALTZ.png
+photo: http://aquarelle-reunion.re/communities/8/000/001/465/518/images/2519514.jpg
 ---
