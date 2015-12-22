@@ -1,4 +1,4 @@
-Jekyll Maps
+Jekyll Maps (voyage.eu.org)
 ===========
 
 **Point-based map engine generated via static Jekyll posts.**
@@ -11,3 +11,5 @@ View this *exact* repository in action [here](http://mapsam.com/jekyll-maps).
 
 * **Post content**: The *description* is marked as `desc:` in the front-matter. Currently if you try to use the `{{ post.content }}` within the javascript of the `_layouts/map.html` file, you'll notice a line break that prevents the map from completely rendering. The current solution is to not use the content space of your point (at least within the javascript portion) and instead use the description attribute.
 * The map markers and tiles are set up to respond to *retina-ready* devices.
+
+
